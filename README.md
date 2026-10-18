@@ -11,10 +11,10 @@
 <a href="https://github.com/mohamed-elhosary1">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+<a href="https://www.linkedin.com/in/elhosary-mohamed/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="mailto:cassidy322007@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
@@ -61,14 +61,14 @@
 A personal productivity and life-tracking project focused on organizing daily activities and turning personal data into actionable insights.
 
 - **Focus:** Productivity, habit tracking, and AI-assisted insights.
-- **Repository:** [LifeOS](YOUR_LIFEOS_REPOSITORY_URL)
+- **Repository:** [LifeOS](https://github.com/mohamed-elhosary1/LifeXOS)
 
 ### 🔹 EAGLE
 
 A project I'm building and developing.
 
-- **Focus:** [Add a short description of EAGLE]
-- **Repository:** [EAGLE](YOUR_EAGLE_REPOSITORY_URL)
+- **Focus:** Local-first AI exam proctoring engine with YOLO, MediaPipe, and evidence verification.
+- **Repository:** [EAGLE](https://github.com/mohamed-elhosary1/EAGLE-V4)
 
 ## 🤝 Community & Activities
 
