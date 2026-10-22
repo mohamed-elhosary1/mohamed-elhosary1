@@ -22,7 +22,7 @@
 
 ---
 
-## 👨💻 About Me
+## 💻 About Me
 
 - 🎓 AI & Big Data student at National University of Sadat City.
 - 💻 Interested in Artificial Intelligence, Software Development, and Computer Science.
@@ -54,9 +54,9 @@
 - Software Engineering
 - Full-Stack & Application Development
 
-## 🚀 Featured Projects
+## 🦉 Featured Projects
 
-### 🔹 LifeOS
+### 🔹 LifeXOS
 
 A personal productivity and life-tracking project focused on organizing daily activities and turning personal data into actionable insights.
 
