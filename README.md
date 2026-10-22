@@ -92,7 +92,7 @@ A project I'm building and developing.
 
 <div align="center">
 
-### 💡 Learn. Build. Improve. Repeat.
+### Learn. Build. Improve. Repeat.
 
 *Thanks for visiting my profile!*
 
